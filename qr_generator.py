@@ -12,4 +12,4 @@ def generate_qr(text):
     img = qr.make_image(fill_color = "black", back_color = "white")
     img.save("qrimg.png")
 
-generate_qr('https://www.youtube.com/watch?v=pdy3nh1tn6I')
+generate_qr('https://www.youtube.com/watch?v=scBPBlEp3x8')
